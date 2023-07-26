@@ -6,10 +6,10 @@
 
 #Secret credentials for OpenAI LLM model
 
-llm_api_key = "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"
+llm_api_key = 
 
-weather_api_key = "578a4f1e169be8dab72f775d9cebe2e0"
+weather_api_key = 
 
-news_api_key = "8a940557f06e4a31829ac7cde518d1e9"
+news_api_key = 
 
-serpapi_api_key = "a50edebef0e427ca720ce75302aa688e409fffd008055d49bbc72cb00fe605fe"
+serpapi_api_key = 
